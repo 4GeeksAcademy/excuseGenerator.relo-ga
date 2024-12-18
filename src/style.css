@@ -1,4 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 .img-excuse {
-  width: 200px;
+  width: 400px;
+  height: 300px;
+  margin: 5px;
+  object-fit: cover;
+}
+body {
+  background-color: rgb(252, 164, 149);
 }
